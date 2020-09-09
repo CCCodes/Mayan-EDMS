@@ -631,3 +631,8 @@ a i {
 .dropdown-menu > li > a {
     color: #585e5e;
 }
+
+/* div:not(.panel-heading) > .pull-left { */
+.panel-footer {
+	color: #000000;
+}
